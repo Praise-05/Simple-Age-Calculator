@@ -4,9 +4,10 @@ let b = parseInt (prompt("Enter current year"));
 
 //Create a subtraction function
 function subtraction() {
-    
+  //The subtraction function should return the subtraction between input b and a
+  return b - a;  
 }
 
 
-//The subtraction function should return the subtraction between input b and a
+
 //Invoke subtraction function to run the calculator
