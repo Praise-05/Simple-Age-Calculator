@@ -8,6 +8,5 @@ function subtraction() {
   return b - a;  
 }
 
-
-
 //Invoke subtraction function to run the calculator
+console.log(subtraction())
