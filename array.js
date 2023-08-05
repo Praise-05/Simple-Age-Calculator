@@ -6,9 +6,11 @@ for (let i = [0]; i <= array.length; i++) {
 //The if function should return number with modulus of zero which are even numbers
   if (a % 2 === 0) {
 //Invoke [i] to display result
-    console. log(a);
+    console.log(a);
                         
-  }
+    }else{
+      console.log("Not an even number");
+    }
     
 }
 
